@@ -4,6 +4,8 @@
 
 chiventure is a text adventure game engine. In other words, chiventure is not an individual game but, rather, a platform that allows game authors to develop text adventure games using WDL (World Description Language) files.
 
+This repository is a fork from the https://github.com/uchicago-cs/chiventure project. I was mainly responsible for the development of NPC battle features, and my contributions can be found specifically on issues #836, #879, and #893. The codes from me can be found on src/npc, include/npc, and tests/npc, as well as Wiki page "RPG NPC: Independent Feature: NPC Movement Design Document"
+
 ## Building chiventure
 
 chiventure uses CMake. To build, run
