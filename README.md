@@ -1,10 +1,12 @@
 # chiventure
 
+**This repository is a fork from the (https://github.com/uchicago-cs/chiventure) project. I was mainly responsible for the development of NPC battle features, and my contributions can be found specifically on issues #836, #879, and #893. The codes from me can be found on `src/npc`, `include/npc`, and `tests/npc`, as well as Wiki page "RPG NPC: Independent Feature: NPC Movement Design Document"**
+
+**このリポジトリは、(https://github.com/uchicago-cs/chiventure) プロジェクトからのフォークです。 私は主に NPC 戦闘機能の開発を担当しており、貢献はissue #836、#879、および #893 にあります。 作成したコードは、`src/npc`、`include/npc`、`tests/npc`、および Wiki ページ「RPG NPC: Independent Feature: NPC Movement Design Document」にあります。**
+
 [![chiventure displaying in an old-school terminal](docs/chiventure-terminal.jpg)](https://www.youtube.com/watch?v=DGSXURPvRxY)
 
 chiventure is a text adventure game engine. In other words, chiventure is not an individual game but, rather, a platform that allows game authors to develop text adventure games using WDL (World Description Language) files.
-
-**This repository is a fork from the (https://github.com/uchicago-cs/chiventure) project. I was mainly responsible for the development of NPC battle features, and my contributions can be found specifically on issues #836, #879, and #893. The codes from me can be found on `src/npc`, `include/npc`, and `tests/npc`, as well as Wiki page "RPG NPC: Independent Feature: NPC Movement Design Document"**
 
 ## Building chiventure
 
